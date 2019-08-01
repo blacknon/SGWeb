@@ -1,6 +1,6 @@
 /**
  * Copyright (c) 2019 Hiroki Takemura (kekeho)
- * 
+ *
  * This software is released under the MIT License.
  * https://opensource.org/licenses/MIT
  */
@@ -30,6 +30,14 @@ body {
 }
 
 .run_button {
+    border: #eaeaea;
+    border-width: 1px;
+    border-style: solid;
+    text-align: center;
+    margin: 0;
+}
+
+.tweet_button {
     border: #eaeaea;
     border-width: 1px;
     border-style: solid;
